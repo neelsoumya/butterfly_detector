@@ -43,4 +43,6 @@ Short scripts and notes for and from a deep learning course
 
     http://cabreraalex.com/interactive-classification/
     
+    https://github.com/poloclub/ganlab/
+    
     
