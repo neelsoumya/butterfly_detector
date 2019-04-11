@@ -21,6 +21,8 @@ Short scripts and notes for and from a deep learning course
     
     https://github.com/lmoroney/dlaicourse
     
+    https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%206%20-%20Lesson%202%20-%20Notebook.ipynb#scrollTo=9FGsHhv6JvDx
+    
 * Review paper on machine learning
 
     https://www.sciencedirect.com/science/article/pii/S0370157319300766#sec9
