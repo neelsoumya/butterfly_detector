@@ -35,3 +35,12 @@ Short scripts and notes for and from a deep learning course
     
     
     
+* Tensorflow in the browser
+
+    https://github.com/tensorflow/tfjs/blob/master/GALLERY.md
+
+    https://coconet.glitch.me/
+
+    http://cabreraalex.com/interactive-classification/
+    
+    
