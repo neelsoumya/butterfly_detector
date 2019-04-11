@@ -47,4 +47,9 @@ Short scripts and notes for and from a deep learning course
     
     https://github.com/poloclub/ganlab/
     
+
+* Tensorflow hub
+
+    http://tfhub.dev/
+    
     
