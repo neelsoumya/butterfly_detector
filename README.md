@@ -29,4 +29,9 @@ Short scripts and notes for and from a deep learning course
 
     https://developers.google.com/machine-learning/crash-course/ml-intro
     
+* Picture of butterfly taken by my mother Kalyani Banerjee
+
+    https://www.deviantart.com/kalyanibanerjee/art/Broken-wings-776029085
+    
+    
     
