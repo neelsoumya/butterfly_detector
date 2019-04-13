@@ -53,3 +53,8 @@ Short scripts and notes for and from a deep learning course
     http://tfhub.dev/
     
     
+* More teaching resources for machine learning
+
+    https://osf.io/25gnz/
+    
+    https://sites.google.com/site/neelsoumya/teaching
