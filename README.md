@@ -56,6 +56,8 @@ Short scripts and notes for and from a deep learning course
     
     https://quickdraw.withgoogle.com/
     
+    https://magenta.tensorflow.org/assets/sketch_rnn_demo/index.html
+    
 
 * Tensorflow hub
 
