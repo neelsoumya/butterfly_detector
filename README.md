@@ -48,6 +48,15 @@ Short scripts and notes for and from a deep learning course
     https://github.com/poloclub/ganlab/
     
 
+* More AI in the browser
+
+    http://projector.tensorflow.org/
+    
+    https://experiments.withgoogle.com/collection/ai
+    
+    https://quickdraw.withgoogle.com/
+    
+
 * Tensorflow hub
 
     http://tfhub.dev/
