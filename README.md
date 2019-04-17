@@ -76,4 +76,8 @@ Short scripts and notes for and from a deep learning course
 * Teaching resources for hierarchical Bayesian models and Bayesian linear regression
 
     https://osf.io/ujydr/
+    
+* Another deep learning book
+
+    http://d2l.ai/?fbclid=IwAR3gOYDbWBpldmwExcZLakejfQsF6Ixo6BmKcspz4eqVMuTRkVv89i-etak
 
