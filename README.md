@@ -69,3 +69,11 @@ Short scripts and notes for and from a deep learning course
     https://osf.io/25gnz/
     
     https://sites.google.com/site/neelsoumya/teaching
+    
+    https://sites.google.com/site/neelsoumya/research-resources/machine-learning
+
+
+* Teaching resources for hierarchical Bayesian models and Bayesian linear regression
+
+    https://osf.io/ujydr/
+
