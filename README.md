@@ -63,7 +63,11 @@ Short scripts and notes for and from a deep learning course
 
     http://tfhub.dev/
     
-    
+
+* Art classification, generation and visualization
+
+    https://artsexperiments.withgoogle.com/tsnemap/#2611.40,171.15,4110.41,2681.01,0.00,4057.88
+
 * More teaching resources for machine learning
 
     https://osf.io/25gnz/
