@@ -67,6 +67,8 @@ Short scripts and notes for and from a deep learning course
 * Art classification, generation and visualization
 
     https://artsexperiments.withgoogle.com/tsnemap/#2611.40,171.15,4110.41,2681.01,0.00,4057.88
+    
+    https://artsexperiments.withgoogle.com/artpalette/colors/f1e3e5-3b614a-d0a468-f45d53-64a67e
 
 * More teaching resources for machine learning
 
