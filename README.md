@@ -86,4 +86,10 @@ Short scripts and notes for and from a deep learning course
 * Another deep learning book
 
     http://d2l.ai/?fbclid=IwAR3gOYDbWBpldmwExcZLakejfQsF6Ixo6BmKcspz4eqVMuTRkVv89i-etak
+    
+
+* More tensorflow resources
+
+    https://www.youtube.com/watch?v=oXj6ew5ymhM
+    
 
