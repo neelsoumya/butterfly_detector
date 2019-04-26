@@ -93,3 +93,9 @@ Short scripts and notes for and from a deep learning course
     https://www.youtube.com/watch?v=oXj6ew5ymhM
     
 
+* Rules of machine learning
+
+    https://www.youtube.com/watch?v=VfcY0edoSLU
+    
+    https://developers.google.com/machine-learning/guides/rules-of-ml/
+    
