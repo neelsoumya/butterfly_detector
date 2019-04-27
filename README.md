@@ -99,3 +99,9 @@ Short scripts and notes for and from a deep learning course
     
     https://developers.google.com/machine-learning/guides/rules-of-ml/
     
+    
+* Backpropagation lectures by Andrej Karpathy and Andrew Ng
+
+    https://www.youtube.com/watch?v=i94OvYb6noo
+    
+    https://www.coursera.org/learn/machine-learning/home/week/5
