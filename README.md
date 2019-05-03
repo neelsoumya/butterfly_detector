@@ -105,3 +105,7 @@ Short scripts and notes for and from a deep learning course
     https://www.youtube.com/watch?v=i94OvYb6noo
     
     https://www.coursera.org/learn/machine-learning/home/week/5
+
+* Beautiful explanation, game and video on neural networks
+
+    https://ncase.me/neurons/
