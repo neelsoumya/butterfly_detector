@@ -9,7 +9,12 @@ Paper on basics of machine learning
 https://dl.acm.org/citation.cfm?id=2347755
 
 
-2) Hackathon!
+2) Structuring machine learning projects
+    
+https://www.coursera.org/learn/machine-learning-projects
+    
+
+3) Hackathon!
 
 BYOD bring your own data
 
