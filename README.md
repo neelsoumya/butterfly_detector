@@ -93,7 +93,7 @@ Short scripts and notes for and from a deep learning course
     https://www.youtube.com/watch?v=oXj6ew5ymhM
     
 
-* Rules of machine learning
+* Rules of machine learning and data science
 
     https://www.youtube.com/watch?v=VfcY0edoSLU
     
