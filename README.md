@@ -101,6 +101,9 @@ Short scripts and notes for and from a deep learning course
     
     https://dl.acm.org/citation.cfm?id=2347755
     
+    Structuring machine learning projects
+    
+    https://www.coursera.org/learn/machine-learning-projects
     
 * Backpropagation lectures by Andrej Karpathy and Andrew Ng
 
