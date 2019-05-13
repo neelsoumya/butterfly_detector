@@ -114,3 +114,11 @@ Short scripts and notes for and from a deep learning course
 * Beautiful explanation, game and video on neural networks
 
     https://ncase.me/neurons/
+    
+* Communication skills
+
+    Business skills
+    
+    Case studies
+    
+    Business processes
