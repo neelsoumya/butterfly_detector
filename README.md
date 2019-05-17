@@ -122,3 +122,12 @@ Short scripts and notes for and from a deep learning course
     Case studies
     
     Business processes
+    
+    Trans-disciplinarity
+    
+    https://medium.com/@miekevanderbijl/transdisciplinary-innovation-and-design-d19d1520ddca
+
+* Bayesian methods and great tutorial on logistic regression
+
+    http://cbl.eng.cam.ac.uk/pub/Public/Turner/News/slides.pdf
+    
