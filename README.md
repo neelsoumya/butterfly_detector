@@ -134,3 +134,8 @@ Short scripts and notes for and from a deep learning course
 
     http://cbl.eng.cam.ac.uk/pub/Public/Turner/News/slides.pdf
     
+
+* Reinforcement learning
+
+    https://www.coursera.org/learn/practical-rl/home/welcome
+    
