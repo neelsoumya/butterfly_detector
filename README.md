@@ -139,3 +139,7 @@ Short scripts and notes for and from a deep learning course
 
     https://www.coursera.org/learn/practical-rl/home/welcome
     
+* Very good tutorial on neural networks, autoencoder, softmax 
+
+    https://www.youtube.com/watch?v=VrMHA3yX_QI
+    
