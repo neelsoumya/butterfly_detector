@@ -143,3 +143,8 @@ Short scripts and notes for and from a deep learning course
 
     https://www.youtube.com/watch?v=VrMHA3yX_QI
     
+
+* Natural language processing
+
+    https://www.coursera.org/learn/natural-language-processing-tensorflow/home/welcome
+    
