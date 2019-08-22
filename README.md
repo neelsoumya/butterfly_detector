@@ -14,6 +14,9 @@ Short scripts and notes for and from a deep learning course
 
     http://neuralnetworksanddeeplearning.com/
 
+* Deep learning book where each chapter is an executable notebook
+
+    http://d2l.ai/
     
 * Tutorial and courses on tensorflow and Google colab
 
