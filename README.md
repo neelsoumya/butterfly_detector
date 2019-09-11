@@ -151,3 +151,18 @@ Short scripts and notes for and from a deep learning course
 
     https://www.coursera.org/learn/natural-language-processing-tensorflow/home/welcome
     
+    https://github.com/neelsoumya/nlp_resources
+    
+    
+* Basics of statistical learning from the Introduction to Statistical Learning (ISLR) text
+
+    http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf
+    
+    https://www.youtube.com/playlist?list=PLOg0ngHtcqbPTlZzRHA2ocQZqB1D_qZ5V
+    
+    http://www.statlearning.com/
+    
+    
+ * Basics of statistics
+ 
+    https://www.openintro.org/stat/textbook.php?stat_book=aps
