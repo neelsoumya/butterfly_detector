@@ -163,6 +163,13 @@ Short scripts and notes for and from a deep learning course
     http://www.statlearning.com/
     
     
- * Basics of statistics
+* Basics of statistics
  
     https://www.openintro.org/stat/textbook.php?stat_book=aps
+
+
+* AI podcast by Lex Freidman
+
+    https://www.youtube.com/watch?v=vNOTDn3D_RI&list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4
+    
+    
