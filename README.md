@@ -53,6 +53,8 @@ Short scripts and notes for and from a deep learning course
     
     https://github.com/poloclub/ganlab/
     
+    https://www.tensorflow.org/js/demos/
+    
 
 * More AI in the browser
 
