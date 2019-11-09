@@ -55,6 +55,9 @@ Short scripts and notes for and from a deep learning course
     
     https://www.tensorflow.org/js/demos/
     
+    https://experiments.withgoogle.com/collection/creatability
+    
+
 
 * More AI in the browser
 
@@ -62,9 +65,12 @@ Short scripts and notes for and from a deep learning course
     
     https://experiments.withgoogle.com/collection/ai
     
+    https://teachablemachine.withgoogle.com/
+    
     https://quickdraw.withgoogle.com/
     
     https://magenta.tensorflow.org/assets/sketch_rnn_demo/index.html
+    
     
 
 * Tensorflow hub
