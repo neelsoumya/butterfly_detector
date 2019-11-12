@@ -59,7 +59,7 @@ Short scripts and notes for and from a deep learning course
     
 
 
-* More AI in the browser
+* More AI in the browser and outreach materials
 
     http://projector.tensorflow.org/
     
