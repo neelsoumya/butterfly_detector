@@ -86,6 +86,8 @@ Short scripts and notes for and from a deep learning course
 
     https://github.com/neelsoumya/butterfly_detector
     
+    https://ncase.me/neurons/
+    
 
 * Tensorflow hub
 
@@ -97,6 +99,7 @@ Short scripts and notes for and from a deep learning course
     https://artsexperiments.withgoogle.com/tsnemap/#2611.40,171.15,4110.41,2681.01,0.00,4057.88
     
     https://artsexperiments.withgoogle.com/artpalette/colors/f1e3e5-3b614a-d0a468-f45d53-64a67e
+
 
 * More teaching resources for machine learning
 
@@ -110,6 +113,7 @@ Short scripts and notes for and from a deep learning course
 * Teaching resources for hierarchical Bayesian models and Bayesian linear regression
 
     https://osf.io/ujydr/
+    
     
 * Another deep learning book
 
@@ -133,15 +137,18 @@ Short scripts and notes for and from a deep learning course
     
     https://www.coursera.org/learn/machine-learning-projects
     
+    
 * Backpropagation lectures by Andrej Karpathy and Andrew Ng
 
     https://www.youtube.com/watch?v=i94OvYb6noo
     
     https://www.coursera.org/learn/machine-learning/home/week/5
 
+
 * Beautiful explanation, game and video on neural networks
 
     https://ncase.me/neurons/
+    
     
 * Communication skills
 
