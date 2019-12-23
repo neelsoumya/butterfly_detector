@@ -161,6 +161,10 @@ Short scripts and notes for and from a deep learning course
     Trans-disciplinarity
     
     https://medium.com/@miekevanderbijl/transdisciplinary-innovation-and-design-d19d1520ddca
+    
+    How to speak by Prof. Patrick Winston
+    
+    https://www.youtube.com/watch?v=Unzc731iCUY
 
 * Bayesian methods and great tutorial on logistic regression
 
