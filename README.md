@@ -207,3 +207,9 @@ Short scripts and notes for and from a deep learning course
     https://www.youtube.com/watch?v=vNOTDn3D_RI&list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4
     
     
+* Link
+
+    [![DOI](https://zenodo.org/badge/180774639.svg)](https://zenodo.org/badge/latestdoi/180774639)
+
+
+    
