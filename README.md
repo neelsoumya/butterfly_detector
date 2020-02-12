@@ -71,6 +71,8 @@ Short scripts and notes for and from a deep learning course
     
     https://magenta.tensorflow.org/assets/sketch_rnn_demo/index.html
     
+    https://pair-code.github.io/what-if-tool/uci.html
+    
     
 * Materials for AI outreach for general public
 
