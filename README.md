@@ -139,6 +139,10 @@ Short scripts and notes for and from a deep learning course
     
     https://www.coursera.org/learn/machine-learning-projects
     
+    Data science in a company 
+    
+    https://cultivating-algos.stitchfix.com/
+    
     
 * Backpropagation lectures by Andrej Karpathy and Andrew Ng
 
