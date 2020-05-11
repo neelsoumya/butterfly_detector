@@ -6,6 +6,8 @@ Short scripts and notes for and from a deep learning course
 
     https://sites.google.com/site/neelsoumya/research-resources/machine-learning
     
+    https://sites.google.com/site/neelsoumya/research-resources/basic-statistics
+    
 * Deep learning animation
 
     https://playground.tensorflow.org/
