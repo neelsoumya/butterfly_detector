@@ -217,7 +217,9 @@ Short scripts and notes for and from a deep learning course
     
 * Link for citation (if you like this work, please cite it as)
 
-    [![DOI](https://zenodo.org/badge/180774639.svg)](https://zenodo.org/badge/latestdoi/180774639)
+    * Soumya Banerjee. (2020, January 22). neelsoumya/butterfly_detector: Open source teaching materials for machine learning (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.3621363
+
+    * [![DOI](https://zenodo.org/badge/180774639.svg)](https://zenodo.org/badge/latestdoi/180774639)
 
 
     
