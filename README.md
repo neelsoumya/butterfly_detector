@@ -4,9 +4,11 @@ Short scripts and notes for and from a deep learning course
 
 * Material
 
-    https://sites.google.com/site/neelsoumya/research-resources/machine-learning
+    * https://sites.google.com/site/neelsoumya/research-resources/machine-learning
     
-    https://sites.google.com/site/neelsoumya/research-resources/basic-statistics
+    * https://sites.google.com/site/neelsoumya/research-resources/basic-statistics
+    
+    * https://github.com/neelsoumya/basic_statistics
     
 * Deep learning animation
 
