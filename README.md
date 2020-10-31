@@ -1,6 +1,8 @@
 # butterfly_detector
 
-Short scripts and notes for and from a deep learning course
+Tutorials, scripts and notes for and from a deep learning course. 
+
+These notes can be used to teach machine learning.
 
 * Material
 
