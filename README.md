@@ -191,6 +191,10 @@ These notes can be used to teach machine learning.
 
     https://www.coursera.org/learn/practical-rl/home/welcome
     
+    gym_interface.ipynb
+    
+    gym_interface.py
+    
     
 * Very good tutorial on neural networks, autoencoder, softmax 
 
