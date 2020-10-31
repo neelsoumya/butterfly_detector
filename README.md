@@ -12,6 +12,10 @@ These notes can be used to teach machine learning.
     
     * https://github.com/neelsoumya/basic_statistics
     
+* Prerequisities
+
+    * https://sites.google.com/site/neelsoumya/research-resources/basic-statistics  
+    
 * Deep learning animation
 
     https://playground.tensorflow.org/
