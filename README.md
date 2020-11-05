@@ -20,15 +20,15 @@ These notes can be used to teach machine learning to a general audience.
     
 * Deep learning animation
 
-    https://playground.tensorflow.org/
+    * https://playground.tensorflow.org/
     
 * Deep learning tutorial by Michael Nielsen
 
-    http://neuralnetworksanddeeplearning.com/
+    * http://neuralnetworksanddeeplearning.com/
 
 * Deep learning book where each chapter is an executable notebook
 
-    http://d2l.ai/
+    * http://d2l.ai/
     
 * Tutorial and courses on tensorflow and Google colab
 
