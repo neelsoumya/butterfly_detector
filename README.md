@@ -32,13 +32,13 @@ These notes can be used to teach machine learning to a general audience.
     
 * Tutorial and courses on tensorflow and Google colab
 
-    https://www.coursera.org/learn/introduction-tensorflow/
+    * https://www.coursera.org/learn/introduction-tensorflow/
     
-    https://github.com/lmoroney/dlaicourse
+    * https://github.com/lmoroney/dlaicourse
     
-    https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%206%20-%20Lesson%202%20-%20Notebook.ipynb#scrollTo=9FGsHhv6JvDx
+    * https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%206%20-%20Lesson%202%20-%20Notebook.ipynb#scrollTo=9FGsHhv6JvDx
     
-    https://www.coursera.org/learn/convolutional-neural-networks-tensorflow/
+    * https://www.coursera.org/learn/convolutional-neural-networks-tensorflow/
     
     
 * Review paper on machine learning
@@ -221,12 +221,12 @@ These notes can be used to teach machine learning to a general audience.
     
 * Basics of statistics
  
-    https://www.openintro.org/stat/textbook.php?stat_book=aps
+    * https://www.openintro.org/stat/textbook.php?stat_book=aps
 
 
 * AI podcast by Lex Freidman
 
-    https://www.youtube.com/watch?v=vNOTDn3D_RI&list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4
+    * https://www.youtube.com/watch?v=vNOTDn3D_RI&list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4
     
     
 * Link for citation (if you like this work, please cite it as)
