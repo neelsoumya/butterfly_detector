@@ -43,15 +43,15 @@ These notes can be used to teach machine learning to a general audience.
     
 * Review paper on machine learning
 
-    https://www.sciencedirect.com/science/article/pii/S0370157319300766#sec9
+    * https://www.sciencedirect.com/science/article/pii/S0370157319300766#sec9
     
 * Machine learning course for developers by Google Education
 
-    https://developers.google.com/machine-learning/crash-course/ml-intro
+    * https://developers.google.com/machine-learning/crash-course/ml-intro
     
 * Picture of butterfly taken by my mother Kalyani Banerjee
 
-    https://www.deviantart.com/kalyanibanerjee/art/Broken-wings-776029085
+    * https://www.deviantart.com/kalyanibanerjee/art/Broken-wings-776029085
     
     
     
