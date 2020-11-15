@@ -57,17 +57,17 @@ These notes can be used to teach machine learning to a general audience.
     
 * Tensorflow in the browser
 
-    https://github.com/tensorflow/tfjs/blob/master/GALLERY.md
+    * https://github.com/tensorflow/tfjs/blob/master/GALLERY.md
 
-    https://coconet.glitch.me/
+    * https://coconet.glitch.me/
 
-    http://cabreraalex.com/interactive-classification/
+    * http://cabreraalex.com/interactive-classification/
     
-    https://github.com/poloclub/ganlab/
+    * https://github.com/poloclub/ganlab/
     
-    https://www.tensorflow.org/js/demos/
+    * https://www.tensorflow.org/js/demos/
     
-    https://experiments.withgoogle.com/collection/creatability
+    * https://experiments.withgoogle.com/collection/creatability
     
 
 
