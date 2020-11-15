@@ -40,6 +40,11 @@ These notes can be used to teach machine learning to a general audience.
     
     * https://www.coursera.org/learn/convolutional-neural-networks-tensorflow/
     
+
+* Course on AI by Prof. Patrick Winston
+
+   * https://www.youtube.com/watch?v=TjZBTDzGeGg
+   
     
 * Review paper on machine learning
 
