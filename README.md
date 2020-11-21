@@ -78,17 +78,17 @@ These notes can be used to teach machine learning to a general audience.
 
 * More AI in the browser and outreach materials
 
-    http://projector.tensorflow.org/
+    * http://projector.tensorflow.org/
     
-    https://experiments.withgoogle.com/collection/ai
+    * https://experiments.withgoogle.com/collection/ai
     
-    https://teachablemachine.withgoogle.com/
+    * https://teachablemachine.withgoogle.com/
     
-    https://quickdraw.withgoogle.com/
+    * https://quickdraw.withgoogle.com/
     
-    https://magenta.tensorflow.org/assets/sketch_rnn_demo/index.html
+    * https://magenta.tensorflow.org/assets/sketch_rnn_demo/index.html
     
-    https://pair-code.github.io/what-if-tool/uci.html
+    * https://pair-code.github.io/what-if-tool/uci.html
     
     
 * Materials for AI outreach for general public
