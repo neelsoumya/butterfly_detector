@@ -93,19 +93,19 @@ These notes can be used to teach machine learning to a general audience.
     
 * Materials for AI outreach for general public
 
-    https://www.coursera.org/learn/ai-for-everyone/lecture/9n83j/more-examples-of-what-machine-learning-can-and-cannot-do​
+    * https://www.coursera.org/learn/ai-for-everyone/lecture/9n83j/more-examples-of-what-machine-learning-can-and-cannot-do​
 
-    https://teachablemachine.withgoogle.com/
+    * https://teachablemachine.withgoogle.com/
 
-    https://playground.tensorflow.org
+    * https://playground.tensorflow.org
 
-    http://projector.tensorflow.org/
+    * http://projector.tensorflow.org/
 
     Here are also some other teaching resources I have compiled/designed
 
-    https://github.com/neelsoumya/butterfly_detector
+    * https://github.com/neelsoumya/butterfly_detector
     
-    https://ncase.me/neurons/
+    * https://ncase.me/neurons/
     
 
 * Tensorflow hub
