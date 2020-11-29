@@ -110,33 +110,33 @@ These notes can be used to teach machine learning to a general audience.
 
 * Tensorflow hub
 
-    http://tfhub.dev/
+    * http://tfhub.dev/
     
 
 * Art classification, generation and visualization
 
-    https://artsexperiments.withgoogle.com/tsnemap/#2611.40,171.15,4110.41,2681.01,0.00,4057.88
+    * https://artsexperiments.withgoogle.com/tsnemap/#2611.40,171.15,4110.41,2681.01,0.00,4057.88
     
-    https://artsexperiments.withgoogle.com/artpalette/colors/f1e3e5-3b614a-d0a468-f45d53-64a67e
+    * https://artsexperiments.withgoogle.com/artpalette/colors/f1e3e5-3b614a-d0a468-f45d53-64a67e
 
 
 * More teaching resources for machine learning
 
-    https://osf.io/25gnz/
+    * https://osf.io/25gnz/
     
-    https://sites.google.com/site/neelsoumya/teaching
+    * https://sites.google.com/site/neelsoumya/teaching
     
-    https://sites.google.com/site/neelsoumya/research-resources/machine-learning
+    * https://sites.google.com/site/neelsoumya/research-resources/machine-learning
 
 
 * Teaching resources for hierarchical Bayesian models and Bayesian linear regression
 
-    https://osf.io/ujydr/
+    * https://osf.io/ujydr/
     
     
 * Another deep learning book
 
-    http://d2l.ai/?fbclid=IwAR3gOYDbWBpldmwExcZLakejfQsF6Ixo6BmKcspz4eqVMuTRkVv89i-etak
+    * http://d2l.ai/?fbclid=IwAR3gOYDbWBpldmwExcZLakejfQsF6Ixo6BmKcspz4eqVMuTRkVv89i-etak
     
 
 * More tensorflow resources
