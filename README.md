@@ -141,36 +141,36 @@ These notes can be used to teach machine learning to a general audience.
 
 * More tensorflow resources
 
-    https://www.youtube.com/watch?v=oXj6ew5ymhM
+    * https://www.youtube.com/watch?v=oXj6ew5ymhM
     
 
 * Rules of machine learning and data science
 
-    https://www.youtube.com/watch?v=VfcY0edoSLU
+    * https://www.youtube.com/watch?v=VfcY0edoSLU
     
-    https://developers.google.com/machine-learning/guides/rules-of-ml/
+    * https://developers.google.com/machine-learning/guides/rules-of-ml/
     
-    https://dl.acm.org/citation.cfm?id=2347755
+    * https://dl.acm.org/citation.cfm?id=2347755
     
     Structuring machine learning projects
     
-    https://www.coursera.org/learn/machine-learning-projects
+    * https://www.coursera.org/learn/machine-learning-projects
     
     Data science in a company 
     
-    https://cultivating-algos.stitchfix.com/
+    * https://cultivating-algos.stitchfix.com/
     
     
 * Backpropagation lectures by Andrej Karpathy and Andrew Ng
 
-    https://www.youtube.com/watch?v=i94OvYb6noo
+    * https://www.youtube.com/watch?v=i94OvYb6noo
     
-    https://www.coursera.org/learn/machine-learning/home/week/5
+    * https://www.coursera.org/learn/machine-learning/home/week/5
 
 
 * Beautiful explanation, game and video on neural networks
 
-    https://ncase.me/neurons/
+    * https://ncase.me/neurons/
     
     
 * Communication skills
