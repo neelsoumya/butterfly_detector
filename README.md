@@ -219,11 +219,11 @@ These notes can be used to teach machine learning to a general audience.
     
 * Basics of statistical learning from the Introduction to Statistical Learning (ISLR) text
 
-    http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf
+    * http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf
     
-    https://www.youtube.com/playlist?list=PLOg0ngHtcqbPTlZzRHA2ocQZqB1D_qZ5V
+    * https://www.youtube.com/playlist?list=PLOg0ngHtcqbPTlZzRHA2ocQZqB1D_qZ5V
     
-    http://www.statlearning.com/
+    * http://www.statlearning.com/
     
     
 * Basics of statistics
