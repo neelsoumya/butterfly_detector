@@ -191,28 +191,30 @@ These notes can be used to teach machine learning to a general audience.
 
 * Bayesian methods and great tutorial on logistic regression
 
-    http://cbl.eng.cam.ac.uk/pub/Public/Turner/News/slides.pdf
+    * http://cbl.eng.cam.ac.uk/pub/Public/Turner/News/slides.pdf
     
 
 * Reinforcement learning
 
-    https://www.coursera.org/learn/practical-rl/home/welcome
+    * https://www.coursera.org/learn/practical-rl/home/welcome
     
-    gym_interface.ipynb
+    * gym_interface.ipynb
     
-    gym_interface.py
+    * gym_interface.py
     
     
 * Very good tutorial on neural networks, autoencoder, softmax 
 
-    https://www.youtube.com/watch?v=VrMHA3yX_QI
+    * https://www.youtube.com/watch?v=VrMHA3yX_QI
     
 
 * Natural language processing
 
-    https://www.coursera.org/learn/natural-language-processing-tensorflow/home/welcome
+    * https://www.coursera.org/learn/natural-language-processing-tensorflow/home/welcome
     
-    https://github.com/neelsoumya/nlp_resources
+    * https://github.com/neelsoumya/nlp_resources
+    
+    * gpt2_playground.ipynb
     
     
 * Basics of statistical learning from the Introduction to Statistical Learning (ISLR) text
