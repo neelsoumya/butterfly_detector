@@ -90,6 +90,10 @@ These notes can be used to teach machine learning to a general audience and work
     
     * https://pair-code.github.io/what-if-tool/uci.html
     
+    * https://www.climbproject.org.uk/big-data
+    
+    * https://www.climbproject.org.uk/dance-mat
+    
     
 * Materials for AI outreach for general public
 
