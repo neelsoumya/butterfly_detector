@@ -2,7 +2,7 @@
 
 This repository has tutorials, scripts and notes for and from a deep learning and machine learning course. 
 
-These notes can be used to teach machine learning to a general audience and working professionals.
+These notes can be used to teach machine learning to a general audience and/or working professionals.
 
 * Material
 
