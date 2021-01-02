@@ -1,8 +1,6 @@
 # butterfly_detector
 
-This is a repository which has tutorials, scripts and notes for teaching deep learning and machine learning. 
-
-These notes can be used to teach machine learning to a general audience and/or working professionals.
+This is a repository which has tutorials, scripts and notes for teaching deep learning and machine learning. These notes can be used to teach machine learning to a general audience and/or working professionals.
 
 This repository also has materials for outreach.
 
