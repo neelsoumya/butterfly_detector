@@ -107,6 +107,7 @@ This repository also has materials for outreach.
 
     * http://projector.tensorflow.org/
 
+
     Here are also some other teaching resources I have compiled/designed
 
     * https://github.com/neelsoumya/butterfly_detector
@@ -161,6 +162,7 @@ This repository also has materials for outreach.
     Structuring machine learning projects
     
     * https://www.coursera.org/learn/machine-learning-projects
+    
     
     Data science in a company 
     
