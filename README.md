@@ -108,7 +108,7 @@ This repository also has materials for outreach.
     * http://projector.tensorflow.org/
 
 
-    Here are also some other teaching resources I have compiled/designed
+* Here are also some other teaching resources I have compiled/designed
 
     * https://github.com/neelsoumya/butterfly_detector
     
