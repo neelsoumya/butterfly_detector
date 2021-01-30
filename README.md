@@ -225,7 +225,7 @@ This repository also has materials for outreach.
     * gpt2_playground.ipynb
     
     
-* Basics of statistical learning from the Introduction to Statistical Learning (ISLR) text
+* Basics of statistical learning from the Introduction to Statistical Learning (ISLR) text (videos and text)
 
     * https://www.statlearning.com/s/ISLR-Seventh-Printing.pdf
     
