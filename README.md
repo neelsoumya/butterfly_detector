@@ -1,6 +1,6 @@
 # butterfly_detector
 
-This is a repository which has tutorials, scripts and notes for teaching deep learning and machine learning. These notes can be used to teach machine learning to a general audience and/or working professionals.
+This is a repository which has tutorials, scripts and notes for teaching machine learning and deep learning. These notes can be used to teach machine learning to a general audience and/or working professionals.
 
 This repository also has materials for outreach.
 
@@ -14,7 +14,7 @@ This repository also has materials for outreach.
     
     * https://github.com/neelsoumya/butterfly_detector
     
-* Prerequisities
+* Prerequisities (for learning statistics)
 
     * https://sites.google.com/site/neelsoumya/research-resources/basic-statistics  
     
