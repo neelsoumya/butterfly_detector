@@ -210,6 +210,17 @@ This repository also has materials for outreach.
     
     * gym_interface.py
     
+* Graph neural networks    
+    
+    * Introduction to graph neural networks
+
+         * https://www.youtube.com/watch?v=uF53xsT7mjc
+
+    * https://github.com/neelsoumya/butterfly_detector/blob/master/graph_neural_networks_tutorial_shortest_path.ipynb
+
+    * DGL library
+    
+    
     
 * Very good tutorial on neural networks, autoencoder, softmax 
 
