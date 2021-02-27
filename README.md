@@ -219,6 +219,10 @@ This repository also has materials for outreach.
     * https://github.com/neelsoumya/butterfly_detector/blob/master/graph_neural_networks_tutorial_shortest_path.ipynb
 
     * DGL library
+
+       * https://github.com/dmlc/dgl
+
+       * https://docs.dgl.ai/tutorials/blitz/index.html  
     
     
     
