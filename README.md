@@ -8,11 +8,7 @@ This repository also has materials for outreach and teaching AI to the general p
 * Material
 
     * https://sites.google.com/site/neelsoumya/research-resources/machine-learning
-    
-    * https://sites.google.com/site/neelsoumya/research-resources/basic-statistics
-    
-    * https://github.com/neelsoumya/basic_statistics
-    
+       
     * https://github.com/neelsoumya/butterfly_detector
     
 * Prerequisities (for learning statistics)
