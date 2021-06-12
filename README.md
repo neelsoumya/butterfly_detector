@@ -11,7 +11,7 @@ This repository also has materials for outreach and teaching AI to the general p
        
     * https://github.com/neelsoumya/butterfly_detector
     
-* Prerequisities (for learning statistics)
+* Prerequisities (for learning basic statistics)
 
     * https://sites.google.com/site/neelsoumya/research-resources/basic-statistics  
     
